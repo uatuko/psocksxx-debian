@@ -19,7 +19,7 @@ Section: libdevel
 Architecture: any
 Provides: libpsocksxx-dev
 Depends: libpsocksxx0 (= ${binary:Version}), ${misc:Depends}
-Description: C++ wrapper library for POSIX sockets
+Description: C++ wrapper library for POSIX sockets (development)
  libpsocksxx is a C++ wrapper library for POSIX socket communications
  implemented by extending the STL stream classes (e.g. std::streambuf, std::istream etc.).
  .
