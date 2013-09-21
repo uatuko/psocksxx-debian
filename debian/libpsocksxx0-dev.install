@@ -1,0 +1,5 @@
+/usr/include/psocksxx
+/usr/lib/*/libpsocksxx.a
+/usr/lib/*/libpsocksxx.la
+/usr/lib/*/libpsocksxx.so
+/usr/lib/*/pkgconfig/psocksxx.pc
