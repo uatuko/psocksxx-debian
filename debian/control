@@ -8,6 +8,7 @@ Homepage: https://github.com/uditha-atukorala/psocksxx
 
 Package: libpsocksxx0
 Architecture: any
+Provides: libpsocksxx
 Depends: ${shlibs:Depends}, ${misc:Depends}
 Description: A C++ wrapper for POSIX sockets
  psocksxx is a C++ wrapper for POSIX sockets implemented by extending
@@ -16,6 +17,7 @@ Description: A C++ wrapper for POSIX sockets
 Package: libpsocksxx0-dev
 Section: libdevel
 Architecture: any
+Provides: libpsocksxx-dev
 Depends: libpsocksxx0 (= ${binary:Version}), ${misc:Depends}
 Description: A C++ wrapper for POSIX sockets
  psocksxx is a C++ wrapper for POSIX sockets implemented by extending
