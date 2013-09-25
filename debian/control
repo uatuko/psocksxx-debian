@@ -5,23 +5,26 @@ Maintainer: Uditha Atukorala <udi@geniusse.com>
 Build-Depends: debhelper (>= 9), autotools-dev, doxygen, libcppunit-dev
 Standards-Version: 3.9.4
 Homepage: https://github.com/uditha-atukorala/psocksxx
+Vcs-Git: git://github.com/uditha-atukorala/psocksxx.git
+Vcs-Browser: https://github.com/uditha-atukorala/psocksxx
 
 Package: libpsocksxx0
 Architecture: any
-Provides: libpsocksxx
+Multi-Arch: same
 Depends: ${shlibs:Depends}, ${misc:Depends}
 Description: C++ wrapper library for POSIX sockets
- libpsocksxx is a C++ wrapper library for POSIX socket communications
+ psocksxx is a C++ wrapper library for POSIX socket communications
  implemented by extending the STL stream classes (e.g. std::streambuf,
  std::istream etc.).
 
 Package: libpsocksxx0-dev
 Section: libdevel
 Architecture: any
+Multi-Arch: same
 Provides: libpsocksxx-dev
 Depends: libpsocksxx0 (= ${binary:Version}), ${misc:Depends}
 Description: C++ wrapper library for POSIX sockets (development)
- libpsocksxx is a C++ wrapper library for POSIX socket communications
+ psocksxx is a C++ wrapper library for POSIX socket communications
  implemented by extending the STL stream classes (e.g. std::streambuf,
  std::istream etc.).
  .
