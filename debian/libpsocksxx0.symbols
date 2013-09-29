@@ -1,0 +1,207 @@
+libpsocksxx.so.0 libpsocksxx0 #MINVER#
+ (c++)"psocksxx::isockstream::isockstream(psocksxx::sockstreambuf*)@Base" 0.0.2
+ (c++)"psocksxx::isockstream::isockstream(psocksxx::sockstreambuf*)@Base" 0.0.2
+ (c++)"psocksxx::isockstream::~isockstream()@Base" 0.0.2
+ (c++)"psocksxx::isockstream::~isockstream()@Base" 0.0.2
+ (c++)"psocksxx::isockstream::~isockstream()@Base" 0.0.2
+ (c++)"psocksxx::lsockstream::connect(psocksxx::lsockaddr const*)@Base" 0.0.2
+ (c++)"psocksxx::lsockstream::connect(char const*)@Base" 0.0.2
+ (c++)"psocksxx::lsockstream::lsockstream()@Base" 0.0.2
+ (c++)"psocksxx::lsockstream::lsockstream()@Base" 0.0.2
+ (c++)"psocksxx::lsockstream::~lsockstream()@Base" 0.0.2
+ (c++)"psocksxx::lsockstream::~lsockstream()@Base" 0.0.2
+ (c++)"psocksxx::lsockstream::~lsockstream()@Base" 0.0.2
+ (c++)"psocksxx::nsockstream::bind(psocksxx::nsockaddr const*, bool)@Base" 0.0.2
+ (c++)"psocksxx::nsockstream::accept()@Base" 0.0.2
+ (c++)"psocksxx::nsockstream::listen(int)@Base" 0.0.2
+ (c++)"psocksxx::nsockstream::connect(psocksxx::nsockaddr const*)@Base" 0.0.2
+ (c++)"psocksxx::nsockstream::connect(char const*, unsigned int)@Base" 0.0.2
+ (c++)"psocksxx::nsockstream::nsockstream(psocksxx::sockstreambuf::socket_type_t, psocksxx::sockstreambuf::socket_protocol_t)@Base" 0.0.2
+ (c++)"psocksxx::nsockstream::nsockstream(psocksxx::sockstreambuf*)@Base" 0.0.2
+ (c++)"psocksxx::nsockstream::nsockstream(psocksxx::sockstreambuf::socket_type_t, psocksxx::sockstreambuf::socket_protocol_t)@Base" 0.0.2
+ (c++)"psocksxx::nsockstream::nsockstream(psocksxx::sockstreambuf*)@Base" 0.0.2
+ (c++)"psocksxx::nsockstream::~nsockstream()@Base" 0.0.2
+ (c++)"psocksxx::nsockstream::~nsockstream()@Base" 0.0.2
+ (c++)"psocksxx::nsockstream::~nsockstream()@Base" 0.0.2
+ (c++)"psocksxx::osockstream::osockstream(psocksxx::sockstreambuf*)@Base" 0.0.2
+ (c++)"psocksxx::osockstream::osockstream(psocksxx::sockstreambuf*)@Base" 0.0.2
+ (c++)"psocksxx::osockstream::~osockstream()@Base" 0.0.2
+ (c++)"psocksxx::osockstream::~osockstream()@Base" 0.0.2
+ (c++)"psocksxx::osockstream::~osockstream()@Base" 0.0.2
+ (c++)"psocksxx::iosockstream::~iosockstream()@Base" 0.0.2
+ (c++)"psocksxx::iosockstream::~iosockstream()@Base" 0.0.2
+ (c++)"psocksxx::iosockstream::~iosockstream()@Base" 0.0.2
+ (c++)"psocksxx::sockexception::sockexception(char const*)@Base" 0.0.2
+ (c++)"psocksxx::sockexception::sockexception(char const*)@Base" 0.0.2
+ (c++)"psocksxx::sockexception::~sockexception()@Base" 0.0.2
+ (c++)"psocksxx::sockexception::~sockexception()@Base" 0.0.2
+ (c++)"psocksxx::sockexception::~sockexception()@Base" 0.0.2
+ (c++)"psocksxx::sockstreambuf::init_buffers()@Base" 0.0.2
+ (c++)"psocksxx::sockstreambuf::clear_timeout()@Base" 0.0.2
+ (c++)"psocksxx::sockstreambuf::init_defaults()@Base" 0.0.2
+ (c++)"psocksxx::sockstreambuf::cleanup_buffers()@Base" 0.0.2
+ (c++)"psocksxx::sockstreambuf::bind(psocksxx::sockaddr const*, bool)@Base" 0.0.2
+ (c++)"psocksxx::sockstreambuf::open(psocksxx::sockstreambuf::socket_domain_t, psocksxx::sockstreambuf::socket_type_t, psocksxx::sockstreambuf::socket_protocol_t)@Base" 0.0.2
+ (c++)"psocksxx::sockstreambuf::sync()@Base" 0.0.2
+ (c++)"psocksxx::sockstreambuf::close()@Base" 0.0.2
+ (c++)"psocksxx::sockstreambuf::flush()@Base" 0.0.2
+ (c++)"psocksxx::sockstreambuf::ready(timeval*, bool, bool)@Base" 0.0.2
+ (c++)"psocksxx::sockstreambuf::accept()@Base" 0.0.2
+ (c++)"psocksxx::sockstreambuf::listen(int)@Base" 0.0.2
+ (c++)"psocksxx::sockstreambuf::connect(psocksxx::sockaddr const*, timeval*)@Base" 0.0.2
+ (c++)"psocksxx::sockstreambuf::connect(psocksxx::sockaddr const*, unsigned int)@Base" 0.0.2
+ (c++)"psocksxx::sockstreambuf::timeout(long, long)@Base" 0.0.2
+ (c++)"psocksxx::sockstreambuf::overflow(int)@Base" 0.0.2
+ (c++)"psocksxx::sockstreambuf::underflow()@Base" 0.0.2
+ (c++)"psocksxx::sockstreambuf::sockstreambuf(int)@Base" 0.0.2
+ (c++)"psocksxx::sockstreambuf::sockstreambuf()@Base" 0.0.2
+ (c++)"psocksxx::sockstreambuf::sockstreambuf(int)@Base" 0.0.2
+ (c++)"psocksxx::sockstreambuf::sockstreambuf()@Base" 0.0.2
+ (c++)"psocksxx::sockstreambuf::~sockstreambuf()@Base" 0.0.2
+ (c++)"psocksxx::sockstreambuf::~sockstreambuf()@Base" 0.0.2
+ (c++)"psocksxx::sockstreambuf::~sockstreambuf()@Base" 0.0.2
+ (c++)"psocksxx::tcpnsockstream::tcpnsockstream()@Base" 0.0.2
+ (c++)"psocksxx::tcpnsockstream::tcpnsockstream()@Base" 0.0.2
+ (c++)"psocksxx::tcpnsockstream::~tcpnsockstream()@Base" 0.0.2
+ (c++)"psocksxx::tcpnsockstream::~tcpnsockstream()@Base" 0.0.2
+ (c++)"psocksxx::tcpnsockstream::~tcpnsockstream()@Base" 0.0.2
+ (c++)"psocksxx::udpnsockstream::udpnsockstream()@Base" 0.0.2
+ (c++)"psocksxx::udpnsockstream::udpnsockstream()@Base" 0.0.2
+ (c++)"psocksxx::udpnsockstream::~udpnsockstream()@Base" 0.0.2
+ (c++)"psocksxx::udpnsockstream::~udpnsockstream()@Base" 0.0.2
+ (c++)"psocksxx::udpnsockstream::~udpnsockstream()@Base" 0.0.2
+ (c++)"psocksxx::socktimeoutexception::socktimeoutexception(timeval const*, char const*)@Base" 0.0.2
+ (c++)"psocksxx::socktimeoutexception::socktimeoutexception(char const*)@Base" 0.0.2
+ (c++)"psocksxx::socktimeoutexception::socktimeoutexception(timeval const*, char const*)@Base" 0.0.2
+ (c++)"psocksxx::socktimeoutexception::socktimeoutexception(char const*)@Base" 0.0.2
+ (c++)"psocksxx::socktimeoutexception::~socktimeoutexception()@Base" 0.0.2
+ (c++)"psocksxx::socktimeoutexception::~socktimeoutexception()@Base" 0.0.2
+ (c++)"psocksxx::socktimeoutexception::~socktimeoutexception()@Base" 0.0.2
+ (c++)"psocksxx::iosocks::clear_timeout()@Base" 0.0.2
+ (c++)"psocksxx::iosocks::timeout(long, long)@Base" 0.0.2
+ (c++)"psocksxx::iosocks::~iosocks()@Base" 0.0.2
+ (c++)"psocksxx::iosocks::~iosocks()@Base" 0.0.2
+ (c++)"psocksxx::sockaddr::~sockaddr()@Base" 0.0.2
+ (c++)"psocksxx::sockaddr::~sockaddr()@Base" 0.0.2
+ (c++)"psocksxx::sockaddr::~sockaddr()@Base" 0.0.2
+ (c++)"psocksxx::lsockaddr::lsockaddr(char const*)@Base" 0.0.2
+ (c++)"psocksxx::lsockaddr::lsockaddr(char const*)@Base" 0.0.2
+ (c++)"psocksxx::lsockaddr::~lsockaddr()@Base" 0.0.2
+ (c++)"psocksxx::lsockaddr::~lsockaddr()@Base" 0.0.2
+ (c++)"psocksxx::lsockaddr::~lsockaddr()@Base" 0.0.2
+ (c++)"psocksxx::nsockaddr::resolve_node(char const*)@Base" 0.0.2
+ (c++)"psocksxx::nsockaddr::nsockaddr(char const*, char const*)@Base" 0.0.2
+ (c++)"psocksxx::nsockaddr::nsockaddr(char const*, unsigned short)@Base" 0.0.2
+ (c++)"psocksxx::nsockaddr::nsockaddr(unsigned short)@Base" 0.0.2
+ (c++)"psocksxx::nsockaddr::nsockaddr(char const*, char const*)@Base" 0.0.2
+ (c++)"psocksxx::nsockaddr::nsockaddr(char const*, unsigned short)@Base" 0.0.2
+ (c++)"psocksxx::nsockaddr::nsockaddr(unsigned short)@Base" 0.0.2
+ (c++)"psocksxx::nsockaddr::~nsockaddr()@Base" 0.0.2
+ (c++)"psocksxx::nsockaddr::~nsockaddr()@Base" 0.0.2
+ (c++)"psocksxx::nsockaddr::~nsockaddr()@Base" 0.0.2
+ (c++)"psocksxx::sockexception::what() const@Base" 0.0.2
+ (c++)"psocksxx::sockstreambuf::socket() const@Base" 0.0.2
+ (c++)"psocksxx::sockstreambuf::timedout() const@Base" 0.0.2
+ (c++)"psocksxx::iosocks::timedout() const@Base" 0.0.2
+ (c++)"psocksxx::lsockaddr::size() const@Base" 0.0.2
+ (c++)"psocksxx::lsockaddr::psockaddr() const@Base" 0.0.2
+ (c++)"psocksxx::nsockaddr::size() const@Base" 0.0.2
+ (c++)"psocksxx::nsockaddr::psockaddr() const@Base" 0.0.2
+ (c++)"char* std::basic_string<char, std::char_traits<char>, std::allocator<char> >::_S_construct<char*>(char*, char*, std::allocator<char> const&, std::forward_iterator_tag)@Base" 0.0.2
+ (c++)"std::basic_stringbuf<char, std::char_traits<char>, std::allocator<char> >::~basic_stringbuf()@Base" 0.0.2
+ (c++)"std::basic_stringbuf<char, std::char_traits<char>, std::allocator<char> >::~basic_stringbuf()@Base" 0.0.2
+ (c++)"std::basic_stringbuf<char, std::char_traits<char>, std::allocator<char> >::~basic_stringbuf()@Base" 0.0.2
+ (c++)"typeinfo for sockaddr_in@Base" 0.0.2
+ (c++)"typeinfo for sockaddr_un@Base" 0.0.2
+ (c++)"typeinfo for psocksxx::isockstream@Base" 0.0.2
+ (c++)"typeinfo for psocksxx::lsockstream@Base" 0.0.2
+ (c++)"typeinfo for psocksxx::nsockstream@Base" 0.0.2
+ (c++)"typeinfo for psocksxx::osockstream@Base" 0.0.2
+ (c++)"typeinfo for psocksxx::iosockstream@Base" 0.0.2
+ (c++)"typeinfo for psocksxx::sockexception@Base" 0.0.2
+ (c++)"typeinfo for psocksxx::sockstreambuf@Base" 0.0.2
+ (c++)"typeinfo for psocksxx::tcpnsockstream@Base" 0.0.2
+ (c++)"typeinfo for psocksxx::udpnsockstream@Base" 0.0.2
+ (c++)"typeinfo for psocksxx::socktimeoutexception@Base" 0.0.2
+ (c++)"typeinfo for psocksxx::iosocks@Base" 0.0.2
+ (c++)"typeinfo for psocksxx::sockaddr@Base" 0.0.2
+ (c++)"typeinfo for psocksxx::lsockaddr@Base" 0.0.2
+ (c++)"typeinfo for psocksxx::nsockaddr@Base" 0.0.2
+ (c++)"typeinfo name for sockaddr_in@Base" 0.0.2
+ (c++)"typeinfo name for sockaddr_un@Base" 0.0.2
+ (c++)"typeinfo name for psocksxx::isockstream@Base" 0.0.2
+ (c++)"typeinfo name for psocksxx::lsockstream@Base" 0.0.2
+ (c++)"typeinfo name for psocksxx::nsockstream@Base" 0.0.2
+ (c++)"typeinfo name for psocksxx::osockstream@Base" 0.0.2
+ (c++)"typeinfo name for psocksxx::iosockstream@Base" 0.0.2
+ (c++)"typeinfo name for psocksxx::sockexception@Base" 0.0.2
+ (c++)"typeinfo name for psocksxx::sockstreambuf@Base" 0.0.2
+ (c++)"typeinfo name for psocksxx::tcpnsockstream@Base" 0.0.2
+ (c++)"typeinfo name for psocksxx::udpnsockstream@Base" 0.0.2
+ (c++)"typeinfo name for psocksxx::socktimeoutexception@Base" 0.0.2
+ (c++)"typeinfo name for psocksxx::iosocks@Base" 0.0.2
+ (c++)"typeinfo name for psocksxx::sockaddr@Base" 0.0.2
+ (c++)"typeinfo name for psocksxx::lsockaddr@Base" 0.0.2
+ (c++)"typeinfo name for psocksxx::nsockaddr@Base" 0.0.2
+ (c++)"VTT for psocksxx::isockstream@Base" 0.0.2
+ (c++)"VTT for psocksxx::lsockstream@Base" 0.0.2
+ (c++)"VTT for psocksxx::nsockstream@Base" 0.0.2
+ (c++)"VTT for psocksxx::osockstream@Base" 0.0.2
+ (c++)"VTT for psocksxx::iosockstream@Base" 0.0.2
+ (c++)"VTT for psocksxx::tcpnsockstream@Base" 0.0.2
+ (c++)"VTT for psocksxx::udpnsockstream@Base" 0.0.2
+ (c++)"VTT for psocksxx::iosocks@Base" 0.0.2
+ (c++)"vtable for psocksxx::isockstream@Base" 0.0.2
+ (c++)"vtable for psocksxx::lsockstream@Base" 0.0.2
+ (c++)"vtable for psocksxx::nsockstream@Base" 0.0.2
+ (c++)"vtable for psocksxx::osockstream@Base" 0.0.2
+ (c++)"vtable for psocksxx::iosockstream@Base" 0.0.2
+ (c++)"vtable for psocksxx::sockexception@Base" 0.0.2
+ (c++)"vtable for psocksxx::sockstreambuf@Base" 0.0.2
+ (c++)"vtable for psocksxx::tcpnsockstream@Base" 0.0.2
+ (c++)"vtable for psocksxx::udpnsockstream@Base" 0.0.2
+ (c++)"vtable for psocksxx::socktimeoutexception@Base" 0.0.2
+ (c++)"vtable for psocksxx::iosocks@Base" 0.0.2
+ (c++)"vtable for psocksxx::sockaddr@Base" 0.0.2
+ (c++)"vtable for psocksxx::lsockaddr@Base" 0.0.2
+ (c++)"vtable for psocksxx::nsockaddr@Base" 0.0.2
+ (c++)"non-virtual thunk to psocksxx::lsockstream::~lsockstream()@Base" 0.0.2
+ (c++)"non-virtual thunk to psocksxx::lsockstream::~lsockstream()@Base" 0.0.2
+ (c++)"non-virtual thunk to psocksxx::nsockstream::~nsockstream()@Base" 0.0.2
+ (c++)"non-virtual thunk to psocksxx::nsockstream::~nsockstream()@Base" 0.0.2
+ (c++)"non-virtual thunk to psocksxx::iosockstream::~iosockstream()@Base" 0.0.2
+ (c++)"non-virtual thunk to psocksxx::iosockstream::~iosockstream()@Base" 0.0.2
+ (c++)"non-virtual thunk to psocksxx::tcpnsockstream::~tcpnsockstream()@Base" 0.0.2
+ (c++)"non-virtual thunk to psocksxx::tcpnsockstream::~tcpnsockstream()@Base" 0.0.2
+ (c++)"non-virtual thunk to psocksxx::udpnsockstream::~udpnsockstream()@Base" 0.0.2
+ (c++)"non-virtual thunk to psocksxx::udpnsockstream::~udpnsockstream()@Base" 0.0.2
+ (c++)"virtual thunk to psocksxx::isockstream::~isockstream()@Base" 0.0.2
+ (c++)"virtual thunk to psocksxx::isockstream::~isockstream()@Base" 0.0.2
+ (c++)"virtual thunk to psocksxx::lsockstream::~lsockstream()@Base" 0.0.2
+ (c++)"virtual thunk to psocksxx::lsockstream::~lsockstream()@Base" 0.0.2
+ (c++)"virtual thunk to psocksxx::nsockstream::~nsockstream()@Base" 0.0.2
+ (c++)"virtual thunk to psocksxx::nsockstream::~nsockstream()@Base" 0.0.2
+ (c++)"virtual thunk to psocksxx::osockstream::~osockstream()@Base" 0.0.2
+ (c++)"virtual thunk to psocksxx::osockstream::~osockstream()@Base" 0.0.2
+ (c++)"virtual thunk to psocksxx::iosockstream::~iosockstream()@Base" 0.0.2
+ (c++)"virtual thunk to psocksxx::iosockstream::~iosockstream()@Base" 0.0.2
+ (c++)"virtual thunk to psocksxx::tcpnsockstream::~tcpnsockstream()@Base" 0.0.2
+ (c++)"virtual thunk to psocksxx::tcpnsockstream::~tcpnsockstream()@Base" 0.0.2
+ (c++)"virtual thunk to psocksxx::udpnsockstream::~udpnsockstream()@Base" 0.0.2
+ (c++)"virtual thunk to psocksxx::udpnsockstream::~udpnsockstream()@Base" 0.0.2
+ (c++)"virtual thunk to psocksxx::iosocks::~iosocks()@Base" 0.0.2
+ (c++)"virtual thunk to psocksxx::iosocks::~iosocks()@Base" 0.0.2
+ (c++)"virtual thunk to psocksxx::isockstream::~isockstream()@Base" 0.0.2
+ (c++)"virtual thunk to psocksxx::isockstream::~isockstream()@Base" 0.0.2
+ (c++)"virtual thunk to psocksxx::lsockstream::~lsockstream()@Base" 0.0.2
+ (c++)"virtual thunk to psocksxx::lsockstream::~lsockstream()@Base" 0.0.2
+ (c++)"virtual thunk to psocksxx::nsockstream::~nsockstream()@Base" 0.0.2
+ (c++)"virtual thunk to psocksxx::nsockstream::~nsockstream()@Base" 0.0.2
+ (c++)"virtual thunk to psocksxx::osockstream::~osockstream()@Base" 0.0.2
+ (c++)"virtual thunk to psocksxx::osockstream::~osockstream()@Base" 0.0.2
+ (c++)"virtual thunk to psocksxx::iosockstream::~iosockstream()@Base" 0.0.2
+ (c++)"virtual thunk to psocksxx::iosockstream::~iosockstream()@Base" 0.0.2
+ (c++)"virtual thunk to psocksxx::tcpnsockstream::~tcpnsockstream()@Base" 0.0.2
+ (c++)"virtual thunk to psocksxx::tcpnsockstream::~tcpnsockstream()@Base" 0.0.2
+ (c++)"virtual thunk to psocksxx::udpnsockstream::~udpnsockstream()@Base" 0.0.2
+ (c++)"virtual thunk to psocksxx::udpnsockstream::~udpnsockstream()@Base" 0.0.2
