@@ -1,5 +1,5 @@
-psocksxx (0.0.3-1) unstable; urgency=low
+psocksxx (0.0.4-1) unstable; urgency=low
 
   * Initial release. (Closes: #724529)
 
- -- Uditha Atukorala <udi@geniusse.com>  Sat, 02 Nov 2013 17:58:27 +0000
+ -- Uditha Atukorala <udi@geniusse.com>  Sun, 10 Nov 2013 12:52:03 +0000
