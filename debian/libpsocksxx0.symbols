@@ -29,8 +29,6 @@ libpsocksxx.so.0 libpsocksxx0 #MINVER#
  (c++)"psocksxx::osockstream::~osockstream()@Base" 0.0.2
  (c++)"psocksxx::osockstream::~osockstream()@Base" 0.0.2
  (c++)"psocksxx::iosockstream::~iosockstream()@Base" 0.0.2
- (c++)"psocksxx::iosockstream::~iosockstream()@Base" 0.0.2
- (c++)"psocksxx::iosockstream::~iosockstream()@Base" 0.0.2
  (c++)"psocksxx::sockexception::sockexception(char const*)@Base" 0.0.2
  (c++)"psocksxx::sockexception::sockexception(char const*)@Base" 0.0.2
  (c++)"psocksxx::sockexception::~sockexception()@Base" 0.0.2
@@ -79,11 +77,6 @@ libpsocksxx.so.0 libpsocksxx0 #MINVER#
  (c++)"psocksxx::socktimeoutexception::~socktimeoutexception()@Base" 0.0.2
  (c++)"psocksxx::iosocks::clear_timeout()@Base" 0.0.2
  (c++)"psocksxx::iosocks::timeout(long, long)@Base" 0.0.2
- (c++)"psocksxx::iosocks::~iosocks()@Base" 0.0.2
- (c++)"psocksxx::iosocks::~iosocks()@Base" 0.0.2
- (c++)"psocksxx::sockaddr::~sockaddr()@Base" 0.0.2
- (c++)"psocksxx::sockaddr::~sockaddr()@Base" 0.0.2
- (c++)"psocksxx::sockaddr::~sockaddr()@Base" 0.0.2
  (c++)"psocksxx::lsockaddr::lsockaddr(char const*)@Base" 0.0.2
  (c++)"psocksxx::lsockaddr::lsockaddr(char const*)@Base" 0.0.2
  (c++)"psocksxx::lsockaddr::~lsockaddr()@Base" 0.0.2
@@ -108,9 +101,6 @@ libpsocksxx.so.0 libpsocksxx0 #MINVER#
  (c++)"psocksxx::nsockaddr::size() const@Base" 0.0.2
  (c++)"psocksxx::nsockaddr::psockaddr() const@Base" 0.0.2
  (c++)"char* std::basic_string<char, std::char_traits<char>, std::allocator<char> >::_S_construct<char*>(char*, char*, std::allocator<char> const&, std::forward_iterator_tag)@Base" 0.0.2
- (c++)"std::basic_stringbuf<char, std::char_traits<char>, std::allocator<char> >::~basic_stringbuf()@Base" 0.0.2
- (c++)"std::basic_stringbuf<char, std::char_traits<char>, std::allocator<char> >::~basic_stringbuf()@Base" 0.0.2
- (c++)"std::basic_stringbuf<char, std::char_traits<char>, std::allocator<char> >::~basic_stringbuf()@Base" 0.0.2
  (c++)"typeinfo for sockaddr_in@Base" 0.0.2
  (c++)"typeinfo for sockaddr_un@Base" 0.0.2
  (c++)"typeinfo for psocksxx::isockstream@Base" 0.0.2
@@ -147,21 +137,17 @@ libpsocksxx.so.0 libpsocksxx0 #MINVER#
  (c++)"VTT for psocksxx::lsockstream@Base" 0.0.2
  (c++)"VTT for psocksxx::nsockstream@Base" 0.0.2
  (c++)"VTT for psocksxx::osockstream@Base" 0.0.2
- (c++)"VTT for psocksxx::iosockstream@Base" 0.0.2
  (c++)"VTT for psocksxx::tcpnsockstream@Base" 0.0.2
  (c++)"VTT for psocksxx::udpnsockstream@Base" 0.0.2
- (c++)"VTT for psocksxx::iosocks@Base" 0.0.2
  (c++)"vtable for psocksxx::isockstream@Base" 0.0.2
  (c++)"vtable for psocksxx::lsockstream@Base" 0.0.2
  (c++)"vtable for psocksxx::nsockstream@Base" 0.0.2
  (c++)"vtable for psocksxx::osockstream@Base" 0.0.2
- (c++)"vtable for psocksxx::iosockstream@Base" 0.0.2
  (c++)"vtable for psocksxx::sockexception@Base" 0.0.2
  (c++)"vtable for psocksxx::sockstreambuf@Base" 0.0.2
  (c++)"vtable for psocksxx::tcpnsockstream@Base" 0.0.2
  (c++)"vtable for psocksxx::udpnsockstream@Base" 0.0.2
  (c++)"vtable for psocksxx::socktimeoutexception@Base" 0.0.2
- (c++)"vtable for psocksxx::iosocks@Base" 0.0.2
  (c++)"vtable for psocksxx::sockaddr@Base" 0.0.2
  (c++)"vtable for psocksxx::lsockaddr@Base" 0.0.2
  (c++)"vtable for psocksxx::nsockaddr@Base" 0.0.2
@@ -169,8 +155,6 @@ libpsocksxx.so.0 libpsocksxx0 #MINVER#
  (c++)"non-virtual thunk to psocksxx::lsockstream::~lsockstream()@Base" 0.0.2
  (c++)"non-virtual thunk to psocksxx::nsockstream::~nsockstream()@Base" 0.0.2
  (c++)"non-virtual thunk to psocksxx::nsockstream::~nsockstream()@Base" 0.0.2
- (c++)"non-virtual thunk to psocksxx::iosockstream::~iosockstream()@Base" 0.0.2
- (c++)"non-virtual thunk to psocksxx::iosockstream::~iosockstream()@Base" 0.0.2
  (c++)"non-virtual thunk to psocksxx::tcpnsockstream::~tcpnsockstream()@Base" 0.0.2
  (c++)"non-virtual thunk to psocksxx::tcpnsockstream::~tcpnsockstream()@Base" 0.0.2
  (c++)"non-virtual thunk to psocksxx::udpnsockstream::~udpnsockstream()@Base" 0.0.2
@@ -183,14 +167,10 @@ libpsocksxx.so.0 libpsocksxx0 #MINVER#
  (c++)"virtual thunk to psocksxx::nsockstream::~nsockstream()@Base" 0.0.2
  (c++)"virtual thunk to psocksxx::osockstream::~osockstream()@Base" 0.0.2
  (c++)"virtual thunk to psocksxx::osockstream::~osockstream()@Base" 0.0.2
- (c++)"virtual thunk to psocksxx::iosockstream::~iosockstream()@Base" 0.0.2
- (c++)"virtual thunk to psocksxx::iosockstream::~iosockstream()@Base" 0.0.2
  (c++)"virtual thunk to psocksxx::tcpnsockstream::~tcpnsockstream()@Base" 0.0.2
  (c++)"virtual thunk to psocksxx::tcpnsockstream::~tcpnsockstream()@Base" 0.0.2
  (c++)"virtual thunk to psocksxx::udpnsockstream::~udpnsockstream()@Base" 0.0.2
  (c++)"virtual thunk to psocksxx::udpnsockstream::~udpnsockstream()@Base" 0.0.2
- (c++)"virtual thunk to psocksxx::iosocks::~iosocks()@Base" 0.0.2
- (c++)"virtual thunk to psocksxx::iosocks::~iosocks()@Base" 0.0.2
  (c++)"virtual thunk to psocksxx::isockstream::~isockstream()@Base" 0.0.2
  (c++)"virtual thunk to psocksxx::isockstream::~isockstream()@Base" 0.0.2
  (c++)"virtual thunk to psocksxx::lsockstream::~lsockstream()@Base" 0.0.2
@@ -199,8 +179,6 @@ libpsocksxx.so.0 libpsocksxx0 #MINVER#
  (c++)"virtual thunk to psocksxx::nsockstream::~nsockstream()@Base" 0.0.2
  (c++)"virtual thunk to psocksxx::osockstream::~osockstream()@Base" 0.0.2
  (c++)"virtual thunk to psocksxx::osockstream::~osockstream()@Base" 0.0.2
- (c++)"virtual thunk to psocksxx::iosockstream::~iosockstream()@Base" 0.0.2
- (c++)"virtual thunk to psocksxx::iosockstream::~iosockstream()@Base" 0.0.2
  (c++)"virtual thunk to psocksxx::tcpnsockstream::~tcpnsockstream()@Base" 0.0.2
  (c++)"virtual thunk to psocksxx::tcpnsockstream::~tcpnsockstream()@Base" 0.0.2
  (c++)"virtual thunk to psocksxx::udpnsockstream::~udpnsockstream()@Base" 0.0.2
